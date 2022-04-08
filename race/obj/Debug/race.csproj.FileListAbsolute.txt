@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\race\obj\Debug\race.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\race\obj\Debug\race.Form1.resources
+C:\Users\student\source\repos\race\obj\Debug\race.Properties.Resources.resources
+C:\Users\student\source\repos\race\obj\Debug\race.csproj.GenerateResource.cache
+C:\Users\student\source\repos\race\obj\Debug\race.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\race\bin\Debug\race.exe.config
+C:\Users\student\source\repos\race\bin\Debug\race.exe
+C:\Users\student\source\repos\race\bin\Debug\race.pdb
+C:\Users\student\source\repos\race\obj\Debug\race.exe
+C:\Users\student\source\repos\race\obj\Debug\race.pdb
